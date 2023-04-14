@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/font_bold.ttf.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/font/bold.ttf"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_edit_text_layout.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/edit_text_layout.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_queue_music_black_24dp.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_queue_music_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_exit_to_app_24dp.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_exit_to_app_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_baseline_library_music_24.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_baseline_library_music_24.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/layout_songs_list_layout.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/layout/songs_list_layout.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/layout_activity_upload_song.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/layout/activity_upload_song.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_music_note_24dp.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_music_note_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/menu_app_menu.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/menu/app_menu.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_baseline_cloud_upload_24.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_baseline_cloud_upload_24.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_button_layout.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/button_layout.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_baseline_add_photo_alternate_24.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_baseline_photo_24.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_baseline_photo_24.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_ic_album_black_24dp.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/ic_album_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/drawable_gradient.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/build/intermediates/res/merged/debug/layout_activity_music.xml.flat",
+        "source": "/Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/res/layout/activity_music.xml"
+    }
+]

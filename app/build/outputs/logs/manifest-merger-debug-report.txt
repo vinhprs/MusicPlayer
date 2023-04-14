@@ -1,0 +1,353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/cf32907e6d5290e958563cdb46a9e935/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/17bb7c6989394fcc379554df5a2a111b/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5c9e4eefb0353cf450b16b7eec3ba1c2/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:2:1-14:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/6d767d8d0ae426237e0a548d598a2e3e/jetified-roundedimageview-2.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a9a2d399186bc0559c0b806c69bd6c9d/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/852f0b47c19275454b8a0de1646a1672/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/382e9094788e85d74f54a23d09d436de/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9c7672604c0cd50b64f044d94df1f3eb/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/7d7e65a778c70984f294416706cfb6b9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4ee058fe709c7ab5b2fce7dc77ca7b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/795388447ae3905c4ab6dc602d13ae66/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5aeaa645fc822a37a08208b8b8c61b88/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/f91624771c121ab9071490781a42fda9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/baa09f87947799d4a5af54421b30e6d0/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/06bbed37581d0d1626f5b65fef97c71f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/faca2a3e8cbc30a67b894cd9cdd79206/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/683d3862f6ce18aa24b9c126439ac638/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/8966700ba1f4f531e57fef91d73b875b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9fd39dc25a09bc66e906d7dade53eb38/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/53f6c2b523636a59144dcacbb7f1e4a0/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/234c038d7f82464fbc3237cc92ff57c5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3505ad9358aff0621735caf73a00f3c9/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/fed413f537335e4177d55cc593802a49/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/45521c409c48f4b69efe945ab965f91a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/ab6f1854cade4d62ff31e130971ee0e3/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9404e9285fe26e7fb80e6356e27feb8a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/1123517cb781bbf504d449fd3e7e56bb/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/333d113c044cef69cbf5cbde2837a6d8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c428acb021e24a07a11563d32de3b69e/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c463d1244323e8fc11eb215c90693622/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a457d37da8350449f96683672778e8a3/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/edbbd0ee22fc1eeac6710a5e61708580/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/d6f5380775f79467c8391d4c7e1d257a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/151f0ee170bd9156d45070d2ef97ab50/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/aa6e5ce7595ea5eebd42c5e736182e85/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c60abfa2f2dfaf684a7503766d8d1081/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/0cb0fbf16ab015221109ea1405174ebe/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/8e335f67545fc9a744c7f8126d28282e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a0911ea4d433675f9bb86f9d97e7a3ce/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/487e12130bc226c61f44e24249fb9800/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/304b8565dba170f4739e08f86dd8e82e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3ac6c48d854585a456dd7b5dabb074db/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.easing:library:2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/60f2939ad7d20d76eeafd619ff4b66bf/jetified-library-2.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/7744676b540381f30f5f81b755bbb742/jetified-library-2.3/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:6:5-22:19
+MERGED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:26:5-30:19
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:13:5-24:19
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/cf32907e6d5290e958563cdb46a9e935/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/cf32907e6d5290e958563cdb46a9e935/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5c9e4eefb0353cf450b16b7eec3ba1c2/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5c9e4eefb0353cf450b16b7eec3ba1c2/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a9a2d399186bc0559c0b806c69bd6c9d/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a9a2d399186bc0559c0b806c69bd6c9d/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/382e9094788e85d74f54a23d09d436de/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/382e9094788e85d74f54a23d09d436de/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/1123517cb781bbf504d449fd3e7e56bb/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/1123517cb781bbf504d449fd3e7e56bb/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a457d37da8350449f96683672778e8a3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a457d37da8350449f96683672778e8a3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/1123517cb781bbf504d449fd3e7e56bb/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:12:9-40
+	tools:replace
+		ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:17:9-38
+activity#com.kee.musicapp.UploadSongActivity
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:13:9-81
+	android:name
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:13:19-69
+activity#com.kee.musicapp.MusicActivity
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:14:19-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:18:27-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:25:5-67
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:11:5-67
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml:25:22-64
+uses-sdk
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+MERGED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/cf32907e6d5290e958563cdb46a9e935/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/cf32907e6d5290e958563cdb46a9e935/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/17bb7c6989394fcc379554df5a2a111b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/17bb7c6989394fcc379554df5a2a111b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5c9e4eefb0353cf450b16b7eec3ba1c2/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5c9e4eefb0353cf450b16b7eec3ba1c2/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:5:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/6d767d8d0ae426237e0a548d598a2e3e/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/6d767d8d0ae426237e0a548d598a2e3e/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a9a2d399186bc0559c0b806c69bd6c9d/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a9a2d399186bc0559c0b806c69bd6c9d/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/852f0b47c19275454b8a0de1646a1672/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/852f0b47c19275454b8a0de1646a1672/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/382e9094788e85d74f54a23d09d436de/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/382e9094788e85d74f54a23d09d436de/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9c7672604c0cd50b64f044d94df1f3eb/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9c7672604c0cd50b64f044d94df1f3eb/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/7d7e65a778c70984f294416706cfb6b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/7d7e65a778c70984f294416706cfb6b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4ee058fe709c7ab5b2fce7dc77ca7b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4ee058fe709c7ab5b2fce7dc77ca7b3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/795388447ae3905c4ab6dc602d13ae66/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/795388447ae3905c4ab6dc602d13ae66/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5aeaa645fc822a37a08208b8b8c61b88/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/5aeaa645fc822a37a08208b8b8c61b88/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/f91624771c121ab9071490781a42fda9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/f91624771c121ab9071490781a42fda9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/baa09f87947799d4a5af54421b30e6d0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/baa09f87947799d4a5af54421b30e6d0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/06bbed37581d0d1626f5b65fef97c71f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/06bbed37581d0d1626f5b65fef97c71f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/faca2a3e8cbc30a67b894cd9cdd79206/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/faca2a3e8cbc30a67b894cd9cdd79206/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/683d3862f6ce18aa24b9c126439ac638/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/683d3862f6ce18aa24b9c126439ac638/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/8966700ba1f4f531e57fef91d73b875b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/8966700ba1f4f531e57fef91d73b875b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9fd39dc25a09bc66e906d7dade53eb38/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9fd39dc25a09bc66e906d7dade53eb38/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/53f6c2b523636a59144dcacbb7f1e4a0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/53f6c2b523636a59144dcacbb7f1e4a0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/234c038d7f82464fbc3237cc92ff57c5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/234c038d7f82464fbc3237cc92ff57c5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3505ad9358aff0621735caf73a00f3c9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3505ad9358aff0621735caf73a00f3c9/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/fed413f537335e4177d55cc593802a49/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/fed413f537335e4177d55cc593802a49/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/45521c409c48f4b69efe945ab965f91a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/45521c409c48f4b69efe945ab965f91a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/ab6f1854cade4d62ff31e130971ee0e3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/ab6f1854cade4d62ff31e130971ee0e3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9404e9285fe26e7fb80e6356e27feb8a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/9404e9285fe26e7fb80e6356e27feb8a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/1123517cb781bbf504d449fd3e7e56bb/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/1123517cb781bbf504d449fd3e7e56bb/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/333d113c044cef69cbf5cbde2837a6d8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/333d113c044cef69cbf5cbde2837a6d8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c428acb021e24a07a11563d32de3b69e/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c428acb021e24a07a11563d32de3b69e/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c463d1244323e8fc11eb215c90693622/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c463d1244323e8fc11eb215c90693622/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a457d37da8350449f96683672778e8a3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a457d37da8350449f96683672778e8a3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/edbbd0ee22fc1eeac6710a5e61708580/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/edbbd0ee22fc1eeac6710a5e61708580/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/d6f5380775f79467c8391d4c7e1d257a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/d6f5380775f79467c8391d4c7e1d257a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/151f0ee170bd9156d45070d2ef97ab50/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/151f0ee170bd9156d45070d2ef97ab50/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/aa6e5ce7595ea5eebd42c5e736182e85/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/aa6e5ce7595ea5eebd42c5e736182e85/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c60abfa2f2dfaf684a7503766d8d1081/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/c60abfa2f2dfaf684a7503766d8d1081/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/0cb0fbf16ab015221109ea1405174ebe/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/0cb0fbf16ab015221109ea1405174ebe/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/8e335f67545fc9a744c7f8126d28282e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/8e335f67545fc9a744c7f8126d28282e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a0911ea4d433675f9bb86f9d97e7a3ce/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a0911ea4d433675f9bb86f9d97e7a3ce/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/487e12130bc226c61f44e24249fb9800/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/487e12130bc226c61f44e24249fb9800/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/304b8565dba170f4739e08f86dd8e82e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/304b8565dba170f4739e08f86dd8e82e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3ac6c48d854585a456dd7b5dabb074db/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3ac6c48d854585a456dd7b5dabb074db/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.easing:library:2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/60f2939ad7d20d76eeafd619ff4b66bf/jetified-library-2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/60f2939ad7d20d76eeafd619ff4b66bf/jetified-library-2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/7744676b540381f30f5f81b755bbb742/jetified-library-2.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/7744676b540381f30f5f81b755bbb742/jetified-library-2.3/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinhnguyen/Downloads/Firebase-Music-Streaming/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.2.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/18c73c6f76bb9befabe76a0f4db3daea/jetified-dexter-6.2.1/AndroidManifest.xml:28:13-60
+service#com.example.jean.jcplayer.service.JcPlayerService
+ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:18:9-85
+	android:name
+		ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:18:18-82
+receiver#com.example.jean.jcplayer.service.notification.JcPlayerNotificationReceiver
+ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:20:9-23:40
+	android:enabled
+		ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [com.github.jeancsanchez:JcPlayer:2.6.16] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/413eab4847345ef82dc1c9ad6bdcb893/jetified-JcPlayer-2.6.16/AndroidManifest.xml:21:13-103
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:26:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/afdff71534cd0e47273e02383c421de9/jetified-firebase-storage-19.1.1/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/a4a56c5b33a476c78b9f05825f9567b3/jetified-firebase-database-19.3.1/AndroidManifest.xml:33:17-109
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.8] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/b26ecc81b909ef1fa71aa558d1b9fa6a/jetified-picasso-2.8/AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/3d245324e3d110cfa323bbd57cf27416/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/bd92629ff0175e83e8fac8c6a48dbae2/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vinhnguyen/.gradle/caches/transforms-2/files-2.1/962e1f7dd2543251d78e096623f74d62/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

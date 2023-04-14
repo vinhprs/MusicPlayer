@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187920196653",
+    "firebase_url": "https://musicapp-e4cc6-default-rtdb.firebaseio.com",
+    "project_id": "musicapp-e4cc6",
+    "storage_bucket": "musicapp-e4cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187920196653:android:0b7a779424ded2652804a4",
+        "android_client_info": {
+          "package_name": "com.kee.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187920196653-vum9sj890jgduah11401hq339v3l5bbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYhZTMb3X74BNeddr4JbMUtvX3YAyByQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187920196653-vum9sj890jgduah11401hq339v3l5bbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
